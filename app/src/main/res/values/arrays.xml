@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Lacteos">
+        <item>Leche</item>
+        <item>Queso</item>
+        <item>Yogurt</item>
+    </string-array>
+
+
+
+    <string-array name="Carnes">
+        <item>Ternera</item>
+        <item>Cerdo</item>
+        <item>Pollo</item>
+    </string-array>
+
+    <string-array name="Pescados">
+        <item>Gallo pedro</item>
+        <item>Boquerones</item>
+        <item>Sardina</item>
+    </string-array>
+
+    <string-array name="Verduras">
+        <item>Lechuga</item>
+        <item>Escarola</item>
+        <item>Coliflor</item>
+    </string-array>
+
+
+</resources>

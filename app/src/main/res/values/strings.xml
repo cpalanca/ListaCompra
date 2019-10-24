@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListaCompra</string>
+    <string name="el_total_del_carrito_asciende_a">El total del Carrito asciende a:</string>
+</resources>
